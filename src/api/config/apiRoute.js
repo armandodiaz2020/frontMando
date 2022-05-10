@@ -1,0 +1,10 @@
+export const userPath = `/Usuario`
+export const userSave = `/Usuario`
+export const appPath = `/v2/app`
+export const userLogin = `/user/login`
+export const ClientePath = `/cliente`
+export const ClienteSave = `/cliente`
+export const TipoClientePath = `/TipoClientes`
+export const TipoclienteSave = `/TipoClientes`
+export const ProductoPath = `/Producto`
+export const ProductoSave = `/Producto`
